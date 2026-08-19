@@ -7,9 +7,9 @@ const profile = {
 
 const links = [
   {
-    label: "Listen on Audiomack",
+    label: "Listen on Spotify",
     detail: "Latest EP, Static Bloom",
-    href: "https://audiomack.com",
+    href: "https://spotify.com",
   },
   {
     label: "Watch on YouTube",
@@ -22,9 +22,9 @@ const links = [
     href: "https://calendly.com",
   },
   {
-    label: "Follow on Facebook",
+    label: "Follow on Instagram",
     detail: "Behind the scenes",
-    href: "https://facebook.com",
+    href: "https://instagram.com",
   },
 ];
 
