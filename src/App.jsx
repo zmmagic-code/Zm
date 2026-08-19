@@ -22,9 +22,9 @@ const links = [
     href: "https://calendly.com",
   },
   {
-    label: "Follow on Instagram",
+    label: "Follow on Facebook",
     detail: "Behind the scenes",
-    href: "https://instagram.com",
+    href: "https://facebook.com",
   },
 ];
 
